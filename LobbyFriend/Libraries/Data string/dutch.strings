@@ -1,0 +1,500 @@
+/* 
+  dutch.strings
+  LobbyFriend
+
+  Created by Imran on 25/03/2014.
+  Copyright (c) 2014 Imran. All rights reserved.
+*/
+
+
+/* GENERAL  */
+
+"yesText" = "JA";
+"backButtonText" = "terug";
+"noText" = "NO";
+"maleText" = "MALE";
+"femaleText" = "VROUWELIJKE";
+"PriavteMsgSectionText" = "U verstuurt een bericht naar:";
+"NoAvatarPic" = "Pleaese selecteer uw avatar";
+"avatarLabelText1" = "Of kies een avatar ...";
+"avatarLabelText2" = "Selecteer een afbeelding hieronder. Het zal verschijnen op je profiel";
+"checkInLabelText" = "Net Checked-in naar het hotel";
+"checkOutLabelText" = "Net Checked-out naar het hotel";
+"eventCalendarText" = "Updaten agenda over dit evenement";
+
+
+
+/* SIGNINPAGE  */
+
+"userNameText" = "Gebruikersnaam";
+"passswordText" = "Wachtwoord";
+"signInText"  = "Aanmelden";
+"forgotText" = "Problemen met inloggen?";
+"loginButtonText"  = "INLOGGEN";
+"fbButtonText"  = "        MELD U AAN MET FACEBOOK";
+"TwitterButtonText"  = "LOGIN MET TWITTER";
+"rememberButtonText"  = " Onthoud mij!";
+
+
+/* SIGNUPPAGE  */
+
+
+"signUpTitle" = "Aanmelden";
+"avatarTitle" = "Avatar";
+"firstNameText" = "Voornaam";
+"lastNameText" = "Achternaam";
+"theEmailText"  = "Vul uw e-mail in";
+"userNameText" = "Gebruikersnaam";
+"passswordText" = "Wachtwoord";
+"nextButtonText"  = "volgend";
+"previousButtonText"  = "vorige";
+"cancelButtonText"  = "Annuleer";
+"registerSignUpButtonText"  = "Registreer";
+"TCButtonText"  = "   Ik ga akkoord met de algemene voorwaarden.";
+
+
+
+
+/* LOBBYPAGE */
+
+"txtMessageText" = "berichten";
+"photoMessageText" = " foto";
+"hotelBtntxt" = "hotel";
+"cityBtntxt" = "city";
+"cityMessageText" = "city";
+"eventCreateButtonTxt" = "Creër Evenement";
+
+
+/* NAVIGATION_TITLE  */
+
+"lobbyTitle" = "lobby";
+"guestsTitle" = "gasten";
+"recipientTitle" = "ontvangers";
+"eventsTitle" = "Evenementen";
+"dealsTitle" = "Aanbiedingen";
+"inboxTitle" = "inbox";
+"guestTitle" = "gast";
+"adminTitle" = "Admin";
+"staffTitle" = "personeel";
+"privateMsgText" = "privebericht";
+
+
+
+
+
+/* POSTCOMMENTPAGE  */
+
+"backButtonText" = "terug";
+"sectionTitleText" = "Schrijf je reactie…";
+"postCommentButtonText" = "Voeg een reactie";
+"commentTitleText" = "REACTIES";
+
+
+
+
+/* SETTINGSPAGE  */
+
+"settingsTitle" = "INSTELLINGEN";
+"termsText" = "Algemene voorwaarden";
+"termsSubText"  = "Lees LobbyFriend's algemene voorwaarden";
+"privacyText" = "prive-beleid";
+"privacySubText"  = "LobbyFriend vindt privacy belangrijk. Lees meer….";
+"cookieText" = "Cookie-beleid";
+"cookieSubText"  = "Ja, dat begrijpen wij ook :)";
+"faqText" = "Veel gestelde vragen";
+"faqSubText"  = "Heb je vragen? Misschien hebben wij deze hier al beantwoord…";
+"contactUsText" = "Neem contact met ons op";
+"contactUsSubText"  = "Wilt u ons spreken of feedback achterlaten…";
+
+"AnonymousText" = "anoniem status van";
+"AnonymousSubText"  = "Niet meer tonen mijn naam, noch informatie";
+"OnlineOfflineText" = "Online / Offline";
+
+"OnlineSubText"  =  "Toon jezelf als online op LobbyFriend.";
+"OfflineSubText"  = "Toon jezelf als offline op LobbyFriend.";
+
+"NewGuestArrivesText" = "Check in van nieuw gasten";
+"NewPostArrivesText" = "Nieuwe berichten in de lobby";
+"NewCommentsArrivesText" = "Nieuwe opmerkingen over de berichten";
+"NewPrivateMessageText" = "Nieuwe privé berichten";
+
+"likePostText" = "Iemand houdt van mijn post";
+"NewPostByGuestText" = "Nieuw bericht door gast";
+
+
+
+"notifySectionText" = "LAAT ME WETEN WANNEER";
+"topSectionText" = "U wijzigt de INSTELLINGEN";
+"lobbyInfoText" = "OVERIGE INSTELLINGEN";
+"settingButonText" = "OPSLAAN";
+
+
+
+/* GETPINVCPAGE */
+
+"getPinVCTitle" = "inchecken";
+"lblAskDeskForPinText" = "Vraag de receptie om een pincode";
+"TypeYourPinText" = "Typ uw pincode in";
+"checkInButtonText" = "inchecken";
+"requestPinText" = "Vraag pin #";
+
+
+/* TWITTERINFOVCPAGE */
+
+"twitterInfoTitle" = "Aanmelden";
+"twitterFirstNameText" = "Voornaam";
+"twitterLastNameText" = "achternaam";
+"twitterEmailText" = "e-mail";
+"registerButtonText" = "REGISTER";
+
+
+/* USERPROFILEVCPAGE */
+
+"userProfileTitle" = "Mijn profiel";
+"addPicButtonText" = "VOEG EEN BEELD";
+"userProfileFrstNameText" = "Voornaam";
+"userProfileLastNameText" = "achternaam";
+"userProfileEmailText" = "Vul uw e-mail in";
+"userProfileUserNameText" = "Gebruikersnaam";
+"userProfilePasswordText" = "wachtwoord";
+"shortBioLblText" = "Korte bio";
+"countryText" = "Ik kom uit…";
+"positionText" = "Voer uw beroep in";
+"companyText" = "Vul uw werkgeversnaam in";
+"schoolText" = "Vul de naam van uw school in";
+"degreeText" = "Vul in wat u gestudeerd heeft";
+"myWorkLblText" = "Mijn werk:";
+"myEducationLblText" = "Mijn opleiding";
+"saveButtonText" = "OPSLAAN";
+"toolbarOkButtonText" = "  OK  ";
+"toolbarNextButtonText" = "volgende";
+"toolbarPrevButtonText" = "Vorige";
+
+/* POSTEVENTVCPAGE */
+
+"postEventVCTitle" = "gebeurtenis maken";
+"titleFieldText" = "Titel…";
+"costFieldText" = "Kosten…";
+"toTimeFieldEmailText" = "Aan…";
+"fromTimeFieldText" = "Van…";
+"shareLobbyButtonText" = "  Delen op Stad Lobby";
+"createEventButtonText" = "CREATE EVENT";
+"agreeTermsButtonText" = "  Ik ga akkoord met de algemene voorwaarden.";
+"moreDetailButtonText" = "meer detail";
+"locationFieldText" = "Waar..";
+"PostEventToolbarPrevButtonText" = "Vorige";
+"PostEventToolbarNextButtonText" = "volgende";
+"PostEventToolbarOkButtonText" = "  OK  ";
+"lblcommentText" = "reacties";
+"lbllikeText" = "likes";
+"lblJoinEventButtonText" = "Meld aan voor dit evenement";
+"lblUnjoinEventButtonText" = "Afmelden voor dit evenement";
+
+"lblJoinDealButtonText" = "Meld aan voor deze deal";
+"lblUnjoinDealButtonText" = "Afmelden voor deze deal";
+
+
+"whoLikedText" = "Wie liked het bericht";
+"whoJoinedText" = "Bekijk wie zich al aangemeld heeft:";
+
+
+
+
+/* ADDMSGVCPAGE */
+
+"addMsgVCTitle" = "bericht";
+"sectionStripTitle" = "Je plaats een bericht EEN BERICHT:";
+"cameraButtonText" = "VOEG EEN BEELD";
+"shareCityLobbyButtonText" = "  Delen op Stad Lobby";
+"shareFbButtonText" = "  Delen op Facebook";
+"shareTwitterButtonText" = "  Delen op Twitter";
+"postButtonText" = "Bericht verzenden";
+
+/* MENUVCPAGE */
+
+
+"lblUserNameText" = "Megan Fox";
+"lobbyMenuText" = "lobby";
+"guestMenuText" = "gasten";
+"dealsMenuText" = "Aanbiedingen";
+"eventsMenuText" = "Evenementen";
+"inboxMenuText" = "inbox";
+
+/* ACCOUNTSETTINGVCPAGE */
+
+
+"myProfileButtonText" = "MIJN PROFIEL";
+"settingsButtonText" = "INSTELLINGEN";
+"logOutButtonText" = "UITLOGGEN";
+"expireButtonText" = "EXPIRE MIJN PIN";
+
+
+/* GUESTSPAGE */
+
+"guestSectionText" = "GASTEN";
+"adminSectionText" = "ADMIN";
+"staffSectionText" = "PERSONEEL";
+"otherSectionText" = "ANDEREN";
+"recentActivitesText" = "Recente activiteiten:";
+"blockUserText" = "Blokker gebruiker";
+"unblockUserText" = "gebruiker blokkeren";
+"sendMessageButtonText" = "Stuur een bericht";
+"AboutMeText" = "Over mezelf";
+"blockLabelText"= "Je hebt geblokkeerd deze gebruiker";
+
+
+/* DETAILPOST */
+
+"joinDealText" = "Werd lid van het DEAL!";
+"joinEventText" = "GEVOEGDE HET EVENEMENT!";
+"dealTitleText" = "handelen";
+"eventTitleText" = "evenement";
+"statusTitleText" = "staat";
+"importantTitleText" = "belangrijk bericht";
+"whoCommentText" = "Die commentaar DEZE POST";
+"whoLikedText" = "Liefhebbers van dit POST";
+"whoJoinedText" = "Die zich bij DEZE POST";
+"sendMsgText" = "stuur bericht";
+"badPostText" = "slecht bericht?";
+"deletePostText" = "verwijder Bericht";
+"deleteAlertText" = "Weet je zeker dat je dit bericht wilt en de geschiedenis wilt verwijderen?";
+"lblcommentText" = "commentaar";
+"lbllikeText" = "houdt";
+
+
+
+/* POPUPVCPAGE */
+
+"lblWelcomeText" = "Welkom bij Lobbyfriend!";
+
+"lblAccessInfoText" = "Om toegang te krijgen tot dit tijdelijke sociaal netwerk tijdens uw verblijf in dit hotel op deze website van derden, en in aanvulling op het akkoord gaan met de Algemene Voorwaarden van LobbyFriend, moet u bekend zijn met deze voorwaarden:";
+
+"lblConfirmAgeText" = "Ik ben 18 jaar of ouder.";
+
+"lblLegalContentText" = "Ik erken dat alle inhoud en alle meningen geplaatst op deze website worden geleverd door individuele auteurs en dat deze niet de meningen vertegenwoordigen van dit hotel, het merk, haar filialen of dochterondernemingen.";
+
+"lblNoLiabilityText" = "Ik begrijp dat noch dit hotel merk, noch de hotels aansprakelijk zijn, en ik hierbij af doe, voor zover toegestaan ​​op grond van toepasselijk recht, van alle vorderingen tegen dit hotel, het merk, zijn filialen en dochterondernemingen, gebaseerd op geheel of gedeeltelijk alle maatregelen die direct of indirect voortvloeien uit of het gevolg zijn van mijn vrijwillige interactie met andere gasten via deze social networking website.";
+
+"lblAcceptText" = "Gelieve te aanvaarden om verder te gaan!";
+"popUpVCcancelButtonText" = "annuleren";
+"popUpVCOkButtonText" = "aanvaarden";
+
+
+
+
+
+
+
+/*About*/
+
+
+"About"="<html><body style=\"background-color: #F2EEF1; COLOR:#5B5B5B;font-family: Helvetica;font-size:11px \">
+<meta name=\"viewport\" content=\"width=320,user-scalable=no initial-scale=1.0\"><link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\" />
+<h4 align = \"center\"><u>ALGEMENE VOORWAARDEN</u></b><br><br></h4>Welkom op onze applicatie (de \"App\"). Deze applicatie wordt verzorgd door het hotel (\"Hotel\" of \"Wij\" of \"ons\").
+
+
+
+<br>
+
+Door het downloaden of anderszins toegang tot de App gaat u ermee akkoord gebonden te zijn door de volgende bepalingen en voorwaarden (\"Voorwaarden\"), ons privacybeleid en onze cookies beleid. Als u vragen hebt over de App of deze voorwaarden, kunt u contact opnemen met ons door een van de middelen hieronder uiteengezet. Als u niet akkoord gaat met deze voorwaarden, moet u stoppen met het gebruik van de App onmiddellijk.
+
+<br>
+
+<br><u>Gebruik van de App:</u>De App is beschikbaar gesteld voor uw eigen, persoonlijk gebruik. U moet stoppen met het gebruik van dit App onmiddellijk als u bent jonger dan 18 jaar. U moet deze applicatie niet gebruiken voor commerciële doeleinden of voor illegale of ongeoorloofde doeleinden. Wanneer u de App te gebruiken gaat u ermee akkoord te voldoen aan alle van toepassing zijnde wetten (tezamen te noemen <b>\"Toepasselijk recht\"</b>) en deze Voorwaarden.
+
+<br><br>
+
+Door het gebruik van deze applicatie gaat u ermee akkoord dat wij niet aansprakelijk zijn voor enig verlies, schade, kosten of kosten die u zou kunnen lijden als gevolg van het gebruik van deze applicatie en gaat u ermee akkoord ons schadeloos te stellen volledig uit en tegen een dergelijk verlies, schade, kosten of uitgaven geleden of opgelopen direct of indirect als gevolg van uw gebruik van de App anders dan in overeenstemming met deze Voorwaarden of geldende wetten.
+
+
+
+<br><u>Derden: </u>De App kan links bevatten naar websites van derden (<b>\"Websites van Derden\"</b>). We hebben geen invloed of controle over dergelijke websites van derden en, tenzij anders vermeld, is niet verantwoordelijk voor en verleent geen goedkeuring websites van derden of de beschikbaarheid of inhoud.
+
+
+
+<br><u>Privacybeleid: </u>Wij nemen uw privacy zeer serieus. We zullen alleen gebruik maken van de persoonlijke informatie die u verstrekt bij het gebruik van deze applicatie in overeenstemming met de voorwaarden van ons privacybeleid en cookies beleid. Door het gebruik van de App erkent u en stemt ermee in dat u hebt gelezen en accepteer de voorwaarden van ons privacybeleid en onze cookies beleid.
+
+
+Disclaimer / aansprakelijkheid:
+
+<br><u>Disclaimer / aansprakelijkheid: </u>Het gebruik van de App is op eigen risico. De App wordt geleverd op een \"as is\" basis. Wij zijn niet aansprakelijk, in contract, onrechtmatige daad (inclusief, zonder beperking, nalatigheid), de wet of anderszins, als gevolg van of in verband met de App, voor elk: (i) de economische verlies (met inbegrip van, maar niet beperkt tot, verlies van van de opbrengsten, winsten, contracten, zaken of verwachte besparingen), of (ii) verlies van goodwill of reputatie; of (iii) speciale of indirecte of gevolgschade.
+
+
+
+
+<br><u>Adverteerders in de App: </u>Wij accepteren geen verantwoordelijkheid voor advertenties vervat in de App. Als u akkoord gaat met goederen en / of diensten te kopen van een derde partij die adverteert in de App, doet u dit op eigen risico. De adverteerder is verantwoordelijk voor deze goederen en / of diensten en als u vragen of klachten heeft met betrekking tot hen, uw enige toevlucht is tegen de adverteerder.
+
+
+
+<br><u>Algemeen: </u>Deze voorwaarden, de cookies beleid en het privacybeleid (zoals gewijzigd van tijd tot tijd) vormen de volledige overeenkomst tussen u en het hotel met betrekking tot uw gebruik van de App.
+
+Wij behouden ons het recht voor om deze Algemene Voorwaarden te werken van tijd tot tijd. U bent verantwoordelijk voor de periodieke toetsing van deze voorwaarden, zodat u op de hoogte van eventuele wijzigingen in hen en je bent gebonden aan het nieuwe beleid van uw voortgezet gebruik van de App.
+Deze voorwaarden worden beheerst door en geïnterpreteerd in overeenstemming met de wetten van de hotel is located in
+
+
+<br><u>Contactgegevens:</u><a href=\"mailto:info@lobbyfriend.com\"> info@lobbyfriend.com</a>
+</b>
+<br><br>
+</body></html>";
+
+
+
+
+
+
+
+
+
+
+
+
+/*PRIVACYPOLICY*/
+
+
+"PRIVACYPOLICY"="<html><body style=\"background-color: #F2EEF1; COLOR:#5B5B5B;font-family: Helvetica;font-size:11px \">
+<meta name=\"viewport\" content=\"width=320,user-scalable=no initial-scale=1.0\"><link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\" />
+<h4 align = \"center\"><u>prive-beleid</u></b><br><br></h4><b>1. Inleiding:</b> We zijn toegewijd aan het beschermen van de privacy van uw persoonlijke informatie, terwijl streven om de beste gebruikerservaring te bieden. We willen deze applicatie om veilig en plezierig voor iedereen. Onder de Data Protection wet-en regelgeving hebben we een wettelijke verplichting om de persoonlijke gegevens die wij van u verzamelen te beschermen.
+
+<br><br>
+
+Als u zich zorgen maakt, vragen of opmerkingen over dit privacybeleid of de App kunt u contact met ons opnemen via de contactgegevens aan het einde van dit beleid.
+
+<br>
+
+<br><b>2. De aard van de persoonlijke informatie die wij verzamelen en hoe wij die verzamelen:<br><br></b> <b>Informatie die u verstrekt bij de registratie: </b> Wanneer u zich registreert, moet u uw gebruikersnaam die uw e-mailadres te geven. Uw gebruikersnaam wordt vertrouwelijk behandeld en zal niet worden doorgegeven aan andere gasten.
+
+
+<br><br>Eenmaal geregistreerd moet u uw naam, dat zal je profiel naam en, je foto te voegen. U kunt er ook voor kiezen om de naam van het bedrijf uw werk voor, het land waar u zich in de universiteit ging je naar, de mate dat je bereikt en je profiel foto toe te voegen. Als u besluit om te registreren met behulp van uw Facebook of Twitter profiel, na uw toestemming, de App zal deze informatie uit je Facebook-of Twitter-profiel om uw profiel aan te maken in de App. Deze informatie is openbare informatie zoals het is zichtbaar voor alle gasten die in de App gebruik in het hotel. Als u niet wilt dat deze gegevens openbaar te maken dan niet voorzien wanneer u zich registreert.
+
+<br><br><b>Demografische en andere gegevens: </b> De App maakt gebruik van cookies en andere tracking technologie om informatie te verzamelen over uw gebruik van onze applicatie, informatie over uw apparaat, zoals uw apparaat-ID, IP-adres en het type browser, demografische gegevens en, als je zijn aangekomen in de App via een link vanaf een site, de URL van de koppeling pagina. Voor meer informatie over hoe deze applicatie maakt gebruik van cookies en andere tracking technologie, zie onze cookie-beleid.
+
+<br><br><b>3. Hoe gebruiken we de informatie die we verzamelen</b> <br><br>Zullen we het gebruiken, voor zover van toepassing, op:
+<ul>
+<li>bieden u de diensten die door deze applicatie;</li>
+<li>controleren of het verbeteren van de prestaties van de diensten die via deze applicatie;</li>
+<li>op de naleving van onze algemene voorwaarden voor het gebruik van de App, af te dwingen onze rechten en de bescherming van de veiligheid van anderen, inclusief het onderzoeken en indien nodig verwijderen van alle inhoud op die we een klacht ontvangen;</li>
+<li>om u promotiemateriaal of speciale aanbiedingen op onze rekening of voor rekening van onze groepsmaatschappijen en marketing partners. Als u niet wilt dat deze marketinginformatie te ontvangen kunt u aan ons melden dit door het beantwoorden van e-mails sturen wij u of door ons te schrijven op <a href=\"mailto:info@lobbyfriend.com\">info@lobbyfriend.com</a> voor welk doel dan als we verplicht zijn dit te doen door enige wet of andere regelgevende of overheidsinstantie</li>
+
+</ul>
+
+<br>Door ons uw persoonlijke gegevens, kunt u ons toestemming om: (a) de overdracht van uw gegevens naar de Verenigde Staten (als u in de App gebruik in een ander land) om ons in staat stellen om de diensten aan u te leveren, en (b) de verwerking uw informatie zoals beschreven in dit privacybeleid en op een andere manier gaat u hiermee akkoord.
+
+<br><br>Als je eenmaal hebt uitgecheckt uit het hotel waar we zullen al uw activiteit te verwijderen in de App, maar zal uw profiel informatie en je Postvak IN te houden als u zich aanmeldt bij uw volgende verblijf in een hotel, dat deze applicatie ondersteunt u niet hoeft te uw gegevens te registreren weer.
+
+<br><br><b>6. Links naar andere websites: </b> deze applicatie kan links bevatten naar andere websites en kunnen we advertenties weer te geven van derden in onze App. Wij kunnen monetariseren een aantal van deze relaties door het gebruik van derden affiliate programma's. Niettegenstaande deze affiliate programma's, zijn wij niet verantwoordelijk voor de inhoud of het privacybeleid van deze websites of voor derden adverteerders, zelfs als ze gebruik maken van de applicatie het logo als onderdeel van een co-branding overeenkomst, noch voor de manier waarop informatie over hun gebruikers behandeld. Voor het indienen van persoonlijke informatie op dergelijke websites, moet u controleren hun privacybeleid.
+
+<br><br><b>7. Beveiliging: </b> In overeenstemming met onze eisen onder de Data Protection wet-en regelgeving, zullen wij passende beveiligingsprocedures om te voorkomen dat onbevoegden toegang krijgen tot uw gegevens.
+
+<br><br><b>9. Een opmerking voor ouders over privacy: </b> We hebben geen moment bewust verzamelen geen persoonlijke gegevens van kinderen onder de leeftijd van achttien jaar. Het is uw verantwoordelijkheid als ouders om ervoor te zorgen dat uw kind niet te downloaden of gebruik maken van de App. Praktische informatie en betrokkenheid zijn essentieel om te helpen dat kinderen op een veilige en lonende online ervaring te garanderen. We raden u aan een bezoek<a href=\"http://www.google.co.uk/goodtoknow/familysafety\">http://www.google.co.uk/goodtoknow/familysafety</a> en <a href=\"http://www.getnetwise.org\">GetNetWise website</a> voor meer informatie over ouderlijke controle tools te leren.
+
+<br><br><b>10. Beleidswijzigingen worden doorgevoerd: </b> Door het gebruik van deze applicatie gaat u akkoord met de voorwaarden van dit privacybeleid. Wij kunnen dit privacybeleid van tijd tot tijd. Als we dat doen, zal een bijgewerkte versie beschikbaar zijn via een link in de App. U bent gebonden door de nieuwe voorwaarden van uw voortgezet gebruik van deze applicatie.
+
+
+<br><br><b>11. Vragen over deze applicatie en de informatie die wij over u: </b> Als u algemene vragen heeft over deze applicatie of de verzamelde gegevens over u bij het gebruik van deze applicatie en hoe het wordt gebruikt contact op met de
+<a href=\"mailto:info@lobbyfriend.com\">info@lobbyfriend.com</a>
+
+<br><br>Datum van de laatste revisie: 04 december 2012
+
+
+<br><br>
+</body></html>";
+
+
+/*COOKIEPOLICY*/
+
+
+"COOKIEPOLICY"="<html><body style=\"background-color: #F2EEF1; COLOR:#5B5B5B;font-family: Helvetica;font-size:11px \">
+<meta name=\"viewport\" content=\"width=320,user-scalable=no initial-scale=1.0\"><link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\" />
+<h4 align = \"center\"><u>cookie-beleid</u></b><br><br></h4><b>koekjes</b> <br><br> <b>Wat zijn dat? </b> <br><br> Een cookie is een klein stukje informatie dat wordt op de harde schijf van uw toestel worden verzonden door een web server, zodat bepaalde informatie over uw browsegeschiedenis activiteit kan worden verzameld. Andere technologie kan ook worden gebruikt om deze informatie te verzamelen zonder het verzenden van informatie naar de harde schijf van uw apparaat. In dit beleid gebruiken we de term 'cookie' op een technologie die informatie verzamelt van uw apparaat betekenen. De cookie verzamelt informatie met betrekking tot uw gebruik van onze applicaties, informatie over uw apparaat, zoals de apparaat-ID, IP-adres en het type browser en demografische gegevens. De informatie zal worden verzameld zowel bij u verbonden bent met het internet en wanneer u niet. Als u hebt gedownload onze applicatie en hebben een gedeelde informatie met ons als onderdeel van dat proces, zal het uw naam en e-mailadres, die aan gegevensverwerkers worden overgedragen voor verificatiedoeleinden.
+
+<br><br>
+<b>Hoe gebruiken we ze? </b>
+<br><br>
+
+Wij gebruiken cookies om gebruikers het gedrag te meten van een betere ontwikkeling onze apps. Door het gebruik van analytics diensten van Google Analytics, Flurry en Comscore kunnen we analyseren welke pagina's worden bekeken en hoe lang en welke links worden gevolgd, zodat wij meer inhoud die van belang. We gebruiken deze analyse te rapporteren over de uitvoering van de App en om reclame te verkopen.
+<br><br>
+De informatie die door het cookie gegenereerde informatie over uw gebruik van deze applicatie (met inbegrip van uw IP-adres) wordt overgebracht naar en opgeslagen in de Verenigde Staten. Zij kunnen deze informatie aan derden verschaffen indien zij hiertoe door de wet, of voor zover deze derden de informatie namens hen. Door het gebruik van deze applicatie gaat u akkoord met de verwerking van gegevens over u door de service providers op de wijze en voor de doeleinden zoals hiervoor omschreven.
+
+<br>
+
+<br><b>Hoe kun je bepalen hoe cookies worden gebruikt?</b>
+
+<br><br>
+Cookies kunnen worden verwijderd van uw harde schijf of vanaf het menu Instellingen op uw apparaat. Om meer te leren over hoe om cookies te weigeren, te bezoeken <a href=\"http://www.allaboutcookies.org\">www.allaboutcookies.org</a> of ga naar het Help-menu in uw internet browser. Als u problemen ondervindt met verwijderde cookies, dient u contact op te nemen met de leverancier van uw web browser.
+
+<br><br><b>
+Hoe kom ik erachter meer informatie: </b>
+
+
+<br><br>Voor meer informatie over cookies kunt u terecht op <a href=\"http://www.allaboutcookies.org\">www.allaboutcookies.org</a> en kunt u voor meer informatie over behavioral advertising in het bijzonder te bezoeken <a href=\"http://www.youronlinechoices.com/uk/\">www.youronlinechoices.com/uk/</a> .
+
+
+
+<br><br>Datum van de laatste revisie: 04 december 2012
+
+
+<br><br>
+</body></html>";
+
+
+/* TIMEVALUESTEXT */
+
+
+"secText" = "twe";
+"secsText" = "twe";
+"minText" = "min";
+"minsText" = "min";
+"hourText" = "uur";
+"hoursText" = "uur";
+"dayText" = "dag";
+"daysText" = "dag";
+"monthText" = "maa";
+"monthsText" = "maa";
+"yearText" = "jaar";
+"yearsText" = "jaar";
+
+
+/* PULLPUSH */
+
+
+"pullRefreshTxt" = "Trek om te vernieuwen...";
+"pullDownRefreshTxt" = "Pull down op te frissen...";
+"releaseRefreshTxt" = "Laat om te vernieuwen...";
+"loadingText" = "het laden...";
+"updatedDataText" = "Updated";
+"agoText" = "geleden";
+
+"releaseMoreTxt" = "Laat los om meer te laden...";
+"pullMoreTxt" = "Trek om meer te laden...";
+
+
+
+
+
+/*EMAILALERTVIEW*/
+
+"alertTitle" = "Geen mail accounts";
+"alertMessage" = "Stel een e-mailaccount om e-mail te sturen.";
+"emailSubject" = "Suggestie over LobbyFriend!";
+"pinExpiryText" = "U wordt afgemeld uit deze applicatie, Uw pincode is verlopen. Dank u wel voor het gebruiken van Lobby Friend. We hopen dat u genoten heeft van uw verblijf.";
+"Error1" = "Is een fout opgetreden! Probeer het later";
+"Error2" = "Please re confirm you pin #";
+"RetryText" = "opnieuw proberen";
+"ActionSheetTitle" = "Welke heeft uw voorkeur?";
+"cameraSheetTitle" = "Camera";
+"albumSheetTitle" = "Camera roll";
+
+"enterAllFieldText" = "Vul alle velden in.";
+"invalidEmailText" = "Ongeldige e-mail.";
+"agreeTermConditionText" = "U moet akkoord gaan voorwaarden!";
+"titleMissingText" = "Titel ontbreekt";
+"startDateMissingText" = "Vul evenement startdatum";
+"locationMissingText" = "Geef locatie";
+"startDateComparisionText" = "Event sluitingsdatum is voor startdatum";
+
+"invalidUserPassText" = "Ongeldige gebruikersnaam of wachtwoord";
+"internetConnText" = "Er is geen internetverbinding beschikbaar. Probeer het later opnieuw";
+"emailUsedText" = "ongeldige gebruikersnaam / wachtwoord";
+"pleaseWaitText" = "Een moment geduld";
+
+

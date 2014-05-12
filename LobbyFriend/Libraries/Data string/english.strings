@@ -1,0 +1,475 @@
+/* 
+  english.strings
+  LobbyFriend
+
+  Created by Imran on 25/03/2014.
+  Copyright (c) 2014 Imran. All rights reserved.
+*/
+/*
+ english.strings
+ Lobbyfriend
+ 
+ */
+
+
+/* GENERAL  */
+
+"yesText" = "YES";
+"noText" = "NO";
+"backButtonText" = "Back";
+"maleText" = "MALE";
+"femaleText" = "FEMALE";
+"okBtnText" = "Ok";
+"cancelBtnText" = "Cancel";
+"PriavteMsgSectionText" = "YOU ARE SENDING A MESSAGE TO:";
+"NoAvatarPic" = "Pleaese select your avatar";
+"avatarLabelText1" = "Or choose an avatar...";
+"avatarLabelText2" = "Select an image below. It will appear on your profile";
+"checkInLabelText" = "Just checked-in to the hotel...";
+"checkOutLabelText" = "Just checked-out from the hotel..";
+"eventCalendarText" = "Updating calendar about this event";
+
+
+
+/* NAVIGATION_TITLE  */
+
+"lobbyTitle" = "Lobby";
+"guestsTitle" = "Guests";
+"recipientTitle" = "Recipients";
+"eventsTitle" = "Events";
+"dealsTitle" = "Deals";
+"inboxTitle" = "Inbox";
+"guestTitle" = "Guest";
+"adminTitle" = "Admin";
+"staffTitle" = "Staff";
+"privateMsgText" = "Private Message";
+
+
+
+/* LOBBYPAGE */
+
+"txtMessageText" = " Message";
+"photoMessageText" = " Photo";
+"hotelBtntxt" = "Hotel";
+"cityBtntxt" = "City";
+"cityMessageText" = "City";
+"eventCreateButtonTxt" = "CREATE EVENT";
+
+
+/* GUESTSPAGE */
+
+"guestSectionText" = "GUESTS";
+"adminSectionText" = "ADMIN";
+"staffSectionText" = "STAFF";
+"otherSectionText" = "OTHERS";
+"recentActivitesText" = "MY RECENT ACTIVITIES:";
+"blockUserText" = "Block user";
+"unblockUserText" = "Unblock user";
+"sendMessageButtonText" = "Send a Message";
+"AboutMeText" = "About me";
+"blockLabelText"= "You have blocked this user";
+
+
+
+
+/* DETAILPOST */
+
+"joinDealText" = "JOINED THE DEAL!";
+"joinEventText" = "JOINED THE EVENT!";
+"dealTitleText" = "Deal";
+"eventTitleText" = "Event";
+"statusTitleText" = "Status";
+"importantTitleText" = "Imp. Message";
+"whoCommentText" = "WHO COMMENTED THIS POST";
+"whoLikedText" = "WHO LIKED THIS POST";
+"whoJoinedText" = "WHO JOINED THIS POST";
+"sendMsgText" = "send message";
+"badPostText" = "bad post?";
+"deletePostText" = "delete post";
+"deleteAlertText" = "Are you sure you want to delete this post and history?";
+"lblcommentText" = "comments";
+"lbllikeText" = "likes";
+"lblJoinEventButtonText" = "JOIN THIS EVENT";
+"lblUnjoinEventButtonText" = "UNJOIN THIS EVENT";
+"lblJoinDealButtonText" = "JOIN THIS DEAL";
+"lblUnjoinDealButtonText" = "UNJOIN THIS DEAL";
+
+
+
+/* SIGNINPAGE  */
+
+"userNameText" = "UserName";
+"passswordText" = "Password";
+"signInText"  = "Sign up!";
+"forgotText" = "Trouble to login?";
+"loginButtonText"  = "LOGIN";
+"fbButtonText"  = "  LOGIN WITH FACEBOOK";
+"TwitterButtonText"  = "LOGIN WITH TWITTER";
+"rememberButtonText"  = " Remember me!";
+
+
+/* SIGNUPPAGE  */
+
+"signUpTitle" = "Sign Up";
+"avatarTitle" = "Avatar";
+"firstNameText" = "First Name";
+"lastNameText" = "Last Name";
+"theEmailText"  = "Email";
+"passswordText" = "Password";
+"userNameText" = "UserName";
+"nextButtonText"  = "Next";
+"previousButtonText"  = "Previous";
+"cancelButtonText"  = "Cancel";
+"registerButtonText"  = "Register";
+"TCButtonText"  = "   I agree with the terms and conditions.";
+
+
+/* POSTCOMMENTPAGE  */
+
+"backButtonText" = "Back";
+"sectionTitleText" = "Write your comment...";
+"postCommentButtonText" = "POST COMMENT";
+"commentTitleText" = "Comments";
+
+
+
+
+
+/* SETTINGSPAGE  */
+
+"settingsTitle" = "Settings";
+"termsText" = "Terms & Conditions";
+"termsSubText"  = "Please read LobbyFriend's Terms & Condition";
+"privacyText" = "Privacy Policy";
+"privacySubText"  = "LobbyFriend is big on privacy. Find us more..";
+"cookieText" = "Cookie policy";
+"cookieSubText"  = "Yes we understand too:)";
+"faqText" = "Frequently Ask Questions";
+"faqSubText"  = "Got question? We may have already answered it here..";
+"contactUsText" = "Contact Us";
+"contactUsSubText"  = "Want to speak to us or leave any feedback..";
+
+"AnonymousText" = "Anonymous status";
+"AnonymousSubText"  = "Don't show my name nor information";
+"OnlineOfflineText" = "Online/Offline";
+"OnlineSubText"  =  "I am currently Offline";
+"OfflineSubText"  = "I am currently Online";
+
+"NewGuestArrivesText" = "New guests check-in";
+"NewPostArrivesText" = "New post by hotel";
+"NewCommentsArrivesText" = "Comments on my posts";
+"NewPrivateMessageText" = "New private message";
+"likePostText" = "Someone likes my post";
+"NewPostByGuestText" = "New post by guest";
+
+"notifySectionText" = "NOTIFY ME WHEN";
+"topSectionText" = "YOU ARE CHANGING THE SETTINGS";
+"lobbyInfoText" = "OTHER SETTINGS";
+"settingButonText" = "SAVE";
+
+/* GETPINVCPAGE */
+
+"getPinVCTitle" = "Check In";
+"lblAskDeskForPinText" = "ASK FRONT DESK FOR A PIN";
+"TypeYourPinText" = "Type your PIN";
+"checkInButtonText" = "CHECK IN";
+"requestPinText" = "Request pin #";
+
+
+/* TWITTERINFOVCPAGE */
+
+"twitterInfoTitle" = "Sign In";
+"twitterFirstNameText" = "First Name";
+"twitterLastNameText" = "Last Name";
+"twitterEmailText" = "Email";
+"registerSignUpButtonText" = "REGISTER";
+
+
+/* USERPROFILEVCPAGE */
+
+"userProfileTitle" = "My Profile";
+"addPicButtonText" = "ADD A PICTURE";
+"userProfileFrstNameText" = "First Name";
+"userProfileLastNameText" = "Last Name";
+"userProfileEmailText" = "Email";
+"userProfileUserNameText" = "Username";
+"userProfilePasswordText" = "Password";
+"shortBioLblText" = "Short bio";
+"countryText" = "Country";
+"positionText" = "Position";
+"companyText" = "Company";
+"schoolText" = "School";
+"degreeText" = "Degree";
+"myWorkLblText" = "My work";
+"myEducationLblText" = "My education";
+"saveButtonText" = "SAVE";
+"toolbarOkButtonText" = "  Ok  ";
+"toolbarNextButtonText" = "Next";
+"toolbarPrevButtonText" = "Prev";
+
+/* POSTEVENTVCPAGE */
+
+"postEventVCTitle" = "Create Event";
+"titleFieldText" = "Title";
+"costFieldText" = "Cost";
+"toTimeFieldEmailText" = "End Time";
+"fromTimeFieldText" = "Start time";
+"shareLobbyButtonText" = "  Share on City Lobby";
+"createEventButtonText" = "CREATE EVENT";
+"agreeTermsButtonText" = "  I agree with the terms and conditions";
+"moreDetailButtonText" = "More detail";
+"locationFieldText" = "Where";
+"PostEventToolbarPrevButtonText" = "Prev";
+"PostEventToolbarNextButtonText" = "Next";
+"PostEventToolbarOkButtonText" = "  Ok  ";
+
+/* ADDMSGVCPAGE */
+
+"addMsgVCTitle" = "Message";
+"sectionStripTitle" = "YOU ARE POSTING A MESSAGE:";
+"cameraButtonText" = "ADD A PICTURE";
+"shareCityLobbyButtonText" = "  Share on City Lobby";
+"shareFbButtonText" = "  Share on FaceBook";
+"shareTwitterButtonText" = "  Share on Twitter";
+"postButtonText" = "Send Message";
+
+/* MENUVCPAGE */
+
+
+"lblUserNameText" = "Megan Fox";
+"lobbyMenuText" = "Lobby";
+"guestMenuText" = "Guests";
+"dealsMenuText" = "Deals";
+"eventsMenuText" = "Events";
+"inboxMenuText" = "Inbox";
+
+
+
+
+/* ACCOUNTSETTINGVCPAGE */
+
+
+"myProfileButtonText" = "My Profile";
+"settingsButtonText" = "Settings";
+"logOutButtonText" = "Logout";
+"expireButtonText" = "EXPIRE MY PIN";
+
+
+
+/* POPUPVCPAGE */
+
+"lblWelcomeText" = "Welcome to Lobbyfriend!";
+"lblAccessInfoText" = "To access this temporary social network during your stay at this hotel from this Third Party website, and in addition to agreeing to the Terms and Conditions of LobbyFriend, you must acknowledge these terms:";
+"lblConfirmAgeText" = "I am at least 18 years of age.";
+"lblLegalContentText" = "I recognize that all the content and all opinions expressed on this website are provided by individual authors and do not represent opinions of this hotel, its brand, its affiliates or subsidiaries.";
+"lblNoLiabilityText" = "I understand that neither this hotel brand nor its hotels are liable from, and I hereby waive to the fullest extent allowed under applicable law all claims against this hotel, its brand, its affiliates and subsidiaries, based in whole or in part on any actions that directly or indirectly arise out of or result from my voluntary interaction with other guests through this social networking website.";
+"lblAcceptText" = "Please accept to continue!";
+"popUpVCcancelButtonText" = "Cancel";
+"popUpVCOkButtonText" = "Accept";
+
+
+
+
+
+/* PULLPUSH */
+
+
+"pullRefreshTxt" = "Pull to refresh...";
+"pullDownRefreshTxt" = "Pull down to refresh...";
+"releaseRefreshTxt" = "Release to refresh...";
+"loadingText" = "Loading...";
+"updatedDataText" = "Updated";
+"agoText" = "ago";
+
+"releaseMoreTxt" = "Release to load more...";
+"pullMoreTxt" = "Pull up to load more...";
+
+
+
+
+/* TIMEVALUESTEXT */
+
+
+"secText" = "sec";
+"secsText" = "secs";
+"minText" = "min";
+"minsText" = "mins";
+"hourText" = "hour";
+"hoursText" = "hours";
+"dayText" = "day";
+"daysText" = "days";
+"monthText" = "month";
+"monthsText" = "months";
+"yearText" = "year";
+"yearsText" = "years";
+
+
+
+/*About*/
+
+
+"About"="<html><body style=\"background-color: #F2EEF1; COLOR:#5B5B5B;font-family: Helvetica;font-size:11px \">
+<meta name=\"viewport\" content=\"width=320,user-scalable=no initial-scale=1.0\"><link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\" />
+<h4 align = \"center\"><u>TERMS & CONDITIONS</u></b><br><br></h4>Welcome to our application (the \"App\"). This App is provided by the hotel (\"Hotel\" or \"We\" or \"Us\").
+
+<br>
+
+By downloading or otherwise accessing the App you agree to be bound by the following terms and conditions (\"Terms\"), our privacy policy and our cookies policy. If you have any queries about the App or these Terms, you can contact Us by any of the means set out below. If you do not agree with these Terms, you should stop using the App immediately.
+
+<br>
+
+<br><u>Use of the App:</u>The App is made available for your own, personal use. You must stop using this App immediately if you are below the age of 18. You must not use this App for any commercial purpose or for any illegal or unauthorised purpose. When you use the App you agree to comply with all applicable laws (together referred to as <b>\"Applicable Laws\"</b>) and these Terms.
+<br><br>
+
+By using this App you agree that We are not liable for any loss, damage, costs or expenses you may suffer as a result of use of this App and you agree to indemnify Us in full from and against any such loss, damage, costs or expenses suffered or incurred directly or indirectly as a result of your use of the App otherwise than in accordance with these Terms or Applicable Laws.
+
+
+<br><u>Third parties:</u>The App may contain links to websites operated by third parties (“Third Party Websites“). We do not have any influence or control over any such Third Party Websites and, unless otherwise stated, is not responsible for and does not endorse any Third Party Websites or their availability or contents.
+
+<br><u>Privacy Policy:</u>We take your privacy very seriously. We will only use the personal information you provide when using this App in accordance with the terms of our privacy policy and cookies policy. By using the App you acknowledge and agree that you have read and accept the terms of our privacy policy and our cookies policy.
+
+<br><u>Disclaimer / Liability:</u>Use of the App is at your own risk. The App is provided on an \"as is\" basis. We will not be liable, in contract, tort (including, without limitation, negligence), under statute or otherwise, as a result of or in connection with the App, for any: (i) economic loss (including, without limitation, loss of revenues, profits, contracts, business or anticipated savings); or (ii) loss of goodwill or reputation; or (iii) special or indirect or consequential loss.
+
+<br><u>Advertisers in the App:</u>We accept no responsibility for adverts contained within the App. If you agree to purchase goods and/or services from any third party who advertises in the App, you do so at your own risk. The advertiser, is responsible for such goods and/or services and if you have any queries or complaints in relation to them, your only recourse is against the advertiser.
+
+<br><u>General:</u>These Terms, the cookies policy and the privacy policy (as amended from time to time) constitute the entire agreement between you and the Hotel concerning your use of the App.
+
+We reserve the right to update these Terms from time to time. You are responsible for regularly reviewing these Terms so that you are aware of any changes to them and you will be bound by the new policy upon your continued use of the App.
+These Terms shall be governed by and construed in accordance with laws the Hotel is located in.
+
+
+<br><u>Contact Details:</u><a href=\"mailto:info@lobbyfriend.com\"> info@lobbyfriend.com</a>
+</b>
+<br><br>
+</body></html>";
+
+
+
+
+
+
+
+
+
+
+
+
+/*PRIVACYPOLICY*/
+
+
+"PRIVACYPOLICY"="<html><body style=\"background-color: #F2EEF1; COLOR:#5B5B5B;font-family: Helvetica;font-size:11px \">
+<meta name=\"viewport\" content=\"width=320,user-scalable=no initial-scale=1.0\"><link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\" />
+<h4 align = \"center\"><u>Privacy Policy</u></b><br><br></h4><b>1. Introduction:</b> We are committed to protecting the privacy of your personal information whilst striving to provide the very best user experience. We want this App to be safe and enjoyable for everyone. Under the Data Protection Laws and Regulations we have a legal duty to protect the personal information we collect from you.
+
+<br><br>
+
+If you have any concerns, questions or comments about this privacy policy or the App you can contact us using the contact details provided at the end of this policy.
+
+<br>
+
+<br><b>2. The types of personal information we collect and how we collect it:<br><br></b> <b>Information you provide upon registration:</b> When you register you will need to provide your username which may be your email address. Your username is kept confidential and will not be disclosed to other guests.
+
+
+<br><br>Once registered you will need to add your name that will be your profile name and, your picture. You may also chose to add the name of the company your work for, the country you are located in, the university you went to, the degree you attained and your profile picture. If you decide to register using your Facebook or Twitter Profile, upon your authorization, the App will pull this information from your Facebook or Twitter profile to create your profile in the App. This information is public information as it is visible to all guests who are using the App in the Hotel. If you do not wish to make this information public then do not provide it when you register.
+
+<br><br><b>Demographic and other data: </b> The App uses cookies and other tracking technology to collect information about your use of our App, information about your device such as your device ID, IP address and browser type, demographic data and, if you arrived at the App via a link from a site, the URL of the linking page. For more information on how this App uses cookies and other tracking technology, see our cookie policy.
+
+<br><br><b>3. How we use the information that we collect</b> <br><br>We will use it, as applicable, to:
+<ul>
+<li>provide you with the services provided by this App; </li>
+<li>monitor or improve the performance of the services available through this App;</li>
+<li>monitor compliance with our terms and conditions of use of the App, enforce our rights and protect the safety of others including investigating and if necessary removing any content on which we receive a complaint;</li>
+<li>send you promotional materials or special offers on our behalf or on behalf of our group companies and marketing partners. If you do not want to receive this marketing information you can notify us of this by  replying to any emails we send you or by writing to us at <a href=\"mailto:info@lobbyfriend.com\">info@lobbyfriend.com</a> for any purpose if we are required to do so by any law or other regulatory or government authority</li>
+
+</ul>
+
+<br>By providing us with your personal information, you consent to us:(a) transferring your information to the United States (if you are using the App in any other country) to enable us to provide the services to you; and (b) processing your information as set out in this privacy policy and in any other manner you expressly consent to.
+
+<br><br>Once you have checked out of the Hotel we will delete all your activity on the App but will retain your profile information and your inbox so when you log in at your next stay at a Hotel that supports this App you will not have to register your details again.
+
+<br><br><b>6. Links to other websites: </b> This App may contain links to other websites and we may display advertisements from third parties in our App. We may monetise some of these links through the use of third party affiliate programmes. Notwithstanding such affiliate programs, we are not responsible for the content or privacy policies of these websites or for third party advertisers, even if they use the App’s logo as part of a co-branding agreement, nor for the way in which information about their users is treated. Before submitting any personal information to such websites, you should check their privacy policy.
+
+<br><br><b>7. Security: </b>In accordance with our requirements under the Data Protection Laws and Regulations, we will adopt appropriate security procedures to help prevent unauthorised access to your information.
+
+<br><br><b>9. A note for parents concerning privacy: </b> We do not currently knowingly collect any personal information from children under the age of eighteen. It is your responsibility as parents to ensure that your child does not download or use the App. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit <a href=\"http://www.google.co.uk/goodtoknow/familysafety\">http://www.google.co.uk/goodtoknow/familysafety</a> and the <a href=\"http://www.getnetwise.org\">GetNetWise website</a> to learn more about parental control tools.
+
+<br><br><b>10. Policy changes: </b>By using this App you agree to the terms of this privacy policy. We may amend this privacy policy from time to time. If we do so, an updated version will be available through a link in the App. You will be bound by the new terms upon your continued use of this App.
+
+<br><br><b>11. Questions about this App and the information we hold about you: </b> If you have any general questions about this App or the information collected about you when using this App and how it is used please contact the
+<a href=\"mailto:info@lobbyfriend.com\">info@lobbyfriend.com</a>
+
+<br><br>Date of Last Revision:  04 December 2012
+
+
+<br><br>
+</body></html>";
+
+
+/*COOKIEPOLICY*/
+
+
+"COOKIEPOLICY"="<html><body style=\"background-color: #F2EEF1; COLOR:#5B5B5B;font-family: Helvetica;font-size:11px \">
+<meta name=\"viewport\" content=\"width=320,user-scalable=no initial-scale=1.0\"><link rel=\"stylesheet\" href=\"style.css\" type=\"text/css\" />
+<h4 align = \"center\"><u>Cookie Policy</u></b><br><br></h4><b>Cookies</b> <br><br> <b>What are they? </b> <br><br> A cookie is a small piece of information which is sent to the hard drive of your device by a web server so that some information about your browsing activity can be collected. Other technology can also be used to collect that information without sending information to the hard drive of your device. In this policy we use the term ‘cookie’ to mean any technology that is collecting information from your device. The cookie will collect information relating to your use of our apps, information about your device such as the device ID, IP address and browser type and demographic data. The information will be collected both when you are connected to the internet and when you are not. If you have downloaded our App and have shared information with us as part of that process, it will collect your name and email address, which may be transferred to data processors for verification purposes.
+
+<br><br>
+<b>How do We use them? </b>
+<br><br>
+
+We use cookies to measure users behaviour to better develop our apps. By using analytics services provided by Google Analytics, Flurry and Comscore we can analyse which pages are viewed and how long for and which links are followed, so that we can provide more content which is of interest. We also use this analysis to report on performance of the App and to sell advertising.
+<br><br>
+The information generated by the cookie about your use of this App (including your IP address) will be transmitted to and stored in the United States. They may also transfer this information to third parties where required to do so by law, or where such third parties process the information on their behalf. By using this App, you consent to the processing of data about you by those service providers in the manner and for the purposes set out above.
+
+<br>
+
+<br><b>How do you control how cookies are used?</b>
+
+<br><br>
+Cookies can be deleted from your hard drive or from the settings menu on your device. To learn more about how to reject cookies, visit <a href=\"http://www.allaboutcookies.org\">www.allaboutcookies.org</a> or go to the help menu within your internet browser. If you experience any problems having deleted cookies, you should contact the supplier of your web browser.
+
+
+<br><br><b>
+How to find out more information: </b>
+
+
+<br><br>For more information about cookies please visit <a href=\"http://www.allaboutcookies.org\">www.allaboutcookies.org</a> and for more information about behavioural advertising in particular please visit <a href=\"http://www.youronlinechoices.com/uk/\">www.youronlinechoices.com/uk/</a> .
+
+
+
+<br><br>Date of Last Revision: 04 December 2012
+
+
+<br><br>
+</body></html>";
+
+
+
+
+
+
+/*EMAILALERTVIEW*/
+
+"alertTitle" = "No Mail Accounts";
+"alertMessage" = "Please set up a Mail account in order to send email.";
+"emailSubject" = "Suggestion about LobbyFriend!";
+"pinExpiryText" = "You are being Logged out of the application. \n Your PIN has expired. Thank you for using LobbyFriend. We hope you enjoyed your stay.";
+
+"Error1" = "Error occured! Please try later";
+"Error2" = "Please re confirm you pin #";
+"ActionSheetTitle" = "Which do you prefer?";
+"cameraSheetTitle" = "Camera";
+"albumSheetTitle" = "Camera roll";
+
+"enterAllFieldText" = "Please enter all fields.";
+"invalidEmailText" = "Invalid eMail ID.";
+"agreeTermConditionText" = "You must agree terms & conditions!";
+"titleMissingText" = "Event title is missing";
+"startDateMissingText" = "Please enter event start date";
+"locationMissingText" = "Please enter location";
+"startDateComparisionText" = "Event closing date is before start date";
+"invalidUserPassText" = "Invalid user name or password";
+"internetConnText" = "There is no internet connection available. Please try again later";
+"emailUsedText" = "Email/username already in used";
+"invalidEmailText" = "invalid username/password";
+"pleaseWaitText" = "Please wait";
+
